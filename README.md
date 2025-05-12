@@ -12,9 +12,6 @@ This repository contains explanations and implementations of advanced image proc
 - 
 # Techniques
  
-## visual documentation
-  ![alt text](/visual.jpg)
-
 ## Log Transformation
 
 Log transformation is a point operation that applies the logarithmic function to each pixel in an image. It enhances low-intensity (dark) pixels while compressing high intensity (bright) pixels.
@@ -142,6 +139,8 @@ Where:
 - **results**
   ![alt text](/gammaRes.jpg)
 
+## visual documentation
+  ![alt text](/visual.jpg)
 
 
 ## Team members
