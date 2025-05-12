@@ -55,12 +55,12 @@ Where:
 - c : The constant c controls the intensity of the enhancement.
 - Normalization: Scales the result to the 0–255 range suitable for images.
 - Returns a new image with log transformation applied.
-  ![alt text](<./WhatsApp Image 2025-05-12 at 02.22.30_a7658bd9.jpg>)
+  ![alt text](/log1.jpg)
 
 - Splits the enhanced image into red, green, and blue channels.
 - Equalizes each channel to improve contrast.
 - Merges them back to form the final enhanced image.
-  ![alt text](</WhatsApp Image 2025-05-12 at 02.22.30_a9e6957b.jpg>)
+  ![alt text](/log2.jpg)
 - **results**
   ![alt text](/fullMark.jpg)
 
@@ -85,9 +85,10 @@ CLAHE is an advanced image processing technique used to enhance the contrast of 
 **images**
 
 - Apply Global and local equalization
-- <img>
+  ![alt text](/clahe1.jpg)
+
   **results**
-  ![alt text](</fullMark.jpg>)
+  ![alt text](</claheRes.jpg)
 
 ## Gamma Transformation
 
@@ -133,12 +134,14 @@ Where:
     o Applies the lookup table to the entire image in one operation
     o This is faster than processing each pixel individually
     o Returns the gamma-corrected image
+  ![alt text](/gamm1.jpg)
 
 - **results**
-  ![alt text](/fullMark.jpg)
+  ![alt text](/gammaRes.jpg)
 
 
 ##visual documentation
+  ![alt text](/visual.jpg)
 
 ## Team members
 
