@@ -140,7 +140,7 @@ Where:
   ![alt text](/gammaRes.jpg)
 
 
-##visual documentation
+## visual documentation
   ![alt text](/visual.jpg)
 
 ## Team members
