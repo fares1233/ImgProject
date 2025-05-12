@@ -37,10 +37,10 @@ Where:
 - Returns a new image with log transformation applied.
 
 **images**
-![alt text](<./WhatsApp Image 2025-05-12 at 02.22.30_a7658bd9.jpg>)
-![alt text](</WhatsApp Image 2025-05-12 at 02.22.30_a9e6957b.jpg>)
+![alt text](/WhatsApp Image 2025-05-12 at 02.22.30_a7658bd9.jpg)
+![alt text](/WhatsApp Image 2025-05-12 at 02.22.30_a9e6957b.jpg)
 - **results**
-![alt text](</fullMark.jpg>)
+![alt text](/fullMark.jpg)
 
 ## CLAHE (Contrast Limited Adaptive Histogram Equalization)
 
