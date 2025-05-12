@@ -88,7 +88,7 @@ CLAHE is an advanced image processing technique used to enhance the contrast of 
   ![alt text](/clahe1.jpg)
 
   **results**
-  ![alt text](</claheRes.jpg)
+  ![alt text](/claheRes.jpg)
 
 ## Gamma Transformation
 
