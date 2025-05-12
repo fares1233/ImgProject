@@ -9,8 +9,11 @@ This repository contains explanations and implementations of advanced image proc
 - OpenCV (cv2)
 - Matplotlib (for visualization)
 - skimage
-
+- 
 # Techniques
+ 
+## visual documentation
+  ![alt text](/visual.jpg)
 
 ## Log Transformation
 
@@ -140,8 +143,6 @@ Where:
   ![alt text](/gammaRes.jpg)
 
 
-## visual documentation
-  ![alt text](/visual.jpg)
 
 ## Team members
 
